@@ -37,7 +37,7 @@ ACC
 NMI
 ARI
 
-Install dependencies
+Install dependencies:
 pip install torch
 pip install torch_geometric
 pip install scikit-learn
@@ -74,7 +74,7 @@ Citation
 If you use this code, please cite:
 OFCL: Outlier-Filtered Contrastive Learning for Attributed Graph Clustering Learning. 
 
-Materials and Methods
+Materials and Methods:
 CPU: Intel Xeon / Intel Core i9 processor
 RAM: 64 GB
 GPU: NVIDIA RTX 3090 (24 GB) or equivalent
@@ -89,6 +89,6 @@ Dataset Sources
 Dataset repository:
 https://github.com/cquetai/OFCL_Cluster.
 
-Data Preprocessing 
+Data Preprocessing: 
 Reference to the paper - Outlier-Filtered Contrastive Learning for Attributed Graph Clustering
 
