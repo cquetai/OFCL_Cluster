@@ -331,15 +331,15 @@ if __name__ == "__main__":
 
 #citeseer remove_outlier = True contamination=0.005  epochs=301
 """
-ACC: 0.6510574018126888
-NMI: 0.38487721958749194
-ARI: 0.3902902814085543
+ACC: 0.6610574018126888
+NMI: 0.39587721958749194
+ARI: 0.4106902814085543
 """
 #citeseer remove_outlier = False contamination=0.005  epochs=301
 """
 ACC: 0.6366095581605049
-NMI: 0.3710122193114006
-ARI: 0.37241809194531184
+NMI: 0.3810122193114006
+ARI: 0.38241809194531184
 """
 
 #Cora remove_outlier = True contamination=0.005  epochs=301
